@@ -1,34 +1,19 @@
-import type {NextConfig} from 'next';
+import type { NextConfig } from 'next';
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  // ✅ TypeScript build error ইগনোর
   typescript: {
     ignoreBuildErrors: true,
   },
+
+  // ✅ ESLint build error ইগনোর
   eslint: {
     ignoreDuringBuilds: true,
   },
+
+  // ✅ Image settings (সব ডোমেইন থেকে ইমেজ লোড হবে)
   images: {
-    remotePatterns: [
-      {
-        protocol: 'https',
-        hostname: 'placehold.co',
-        port: '',
-        pathname: '/**',
-      },
-      {
-        protocol: 'https',
-        hostname: 'blogger.googleusercontent.com',
-        port: '',
-        pathname: '/**',
-      },
-      {
-        protocol: 'https',
-        hostname: 'https://github.io',
-        port: '',
-        pathname: '/**',
-      }
-    ],
+    unoptimized: true, 
   },
 };
 
