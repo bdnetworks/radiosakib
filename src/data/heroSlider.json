@@ -1,7 +1,6 @@
-
 [
   {
-    "image": "https://picsum.photos/1200/800?h=1",
+    "image": "https://kendua.github.io/radiosakib/img/banner-1.jpg",
     "hint": "DJ mixing console",
     "titleLine1": "RADIO SAKIB LIVE",
     "titleLine2": "RADIO STATION",
@@ -10,7 +9,7 @@
     "buttonLink": "#"
   },
   {
-    "image": "https://picsum.photos/1200/800?h=2",
+    "image": "https://media.istockphoto.com/id/614523672/photo/microphone-in-radio-studio.jpg?s=612x612&w=0&k=20&c=DuCKPgtGH3S8NQcK7ma2lx228sOUruEEyD4TMTX0fUI=",
     "hint": "live music",
     "titleLine1": "Live Shows",
     "titleLine2": "Every Weekend",
@@ -19,12 +18,57 @@
     "buttonLink": "#"
   },
   {
-    "image": "https://picsum.photos/1200/800?h=3",
+    "image": "https://t3.ftcdn.net/jpg/03/31/50/02/360_F_331500233_rBnPlY3OSFE0l6Fzbf7uZvvMVOFVXbTF.jpg",
     "hint": "podcast microphone",
     "titleLine1": "New Podcasts",
     "titleLine2": "Weekly",
     "description": "Discover new stories and insights from our amazing hosts.",
     "buttonText": "Explore Podcasts",
+    "buttonLink": "#"
+  },
+  {
+    "image": "https://kendua.github.io/radiosakib/img/banner-2.jpg",
+    "hint": "radio studio",
+    "titleLine1": "Exclusive Interviews",
+    "titleLine2": "With Artists",
+    "description": "Get behind the scenes stories directly from the stars.",
+    "buttonText": "Listen Now",
+    "buttonLink": "#"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1589903308904-1010c2294adc?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "hint": "studio session",
+    "titleLine1": "Music Nonstop",
+    "titleLine2": "24/7",
+    "description": "Enjoy unlimited music from your favorite DJs anytime.",
+    "buttonText": "Start Listening",
+    "buttonLink": "#"
+  },
+  {
+    "image": "https://kendua.github.io/radiosakib/img/banner-3.jpg",
+    "hint": "radio broadcast",
+    "titleLine1": "Community Radio",
+    "titleLine2": "For Everyone",
+    "description": "Bringing together music lovers and storytellers.",
+    "buttonText": "Join Us",
+    "buttonLink": "#"
+  },
+  {
+    "image": "https://media.istockphoto.com/id/1152495939/photo/microphone-and-mixer-at-the-radio-station-studio-broadcasting-news.jpg?s=612x612&w=0&k=20&c=Ij5x7DykYyE7aisykBN9OKiHZUFLzlsnvW4inIj3ugo=",
+    "hint": "live radio mic",
+    "titleLine1": "Breaking News",
+    "titleLine2": "Instant Updates",
+    "description": "Stay updated with the latest breaking stories on air.",
+    "buttonText": "Hear Updates",
+    "buttonLink": "#"
+  },
+  {
+    "image": "https://kendua.github.io/radiosakib/img/about-1.jpg",
+    "hint": "radio journey",
+    "titleLine1": "About Radio Sakib",
+    "titleLine2": "Our Story",
+    "description": "Discover the journey behind our station and team.",
+    "buttonText": "Learn More",
     "buttonLink": "#"
   }
 ]
