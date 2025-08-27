@@ -12,17 +12,17 @@
     "day": "Sunday",
     "shows": [
       { "time": "07:00 - 09:00am", "show": "Morning Drive", "hosts": ["RJ Clara"], "image": "https://picsum.photos/400/300?s=5", "hint": "sunrise coffee", "icon": "Coffee", "avatars": ["https://picsum.photos/100/100?a=5"] },
+      { "time": "09:00 - 11:00am", "show": "Acoustic Mornings", "hosts": ["RJ Melody"], "image": "https://picsum.photos/400/300?s=13", "hint": "acoustic guitar", "icon": "Coffee", "avatars": ["https://picsum.photos/100/100?a=10"] },
       { "time": "11:00 - 01:00pm", "show": "Indie Hits", "hosts": ["DJ Alex"], "image": "https://picsum.photos/400/300?s=6", "hint": "guitar player", "icon": "Music", "avatars": ["https://picsum.photos/100/100?a=6"] },
-      { "time": "08:00 - 10:00pm", "show": "Friday Night Live", "hosts": ["The Whole Crew"], "image": "https://picsum.photos/400/300?s=19", "hint": "live concert", "icon": "Waves", "avatars": ["https://picsum.photos/100/100?a=1","https://picsum.photos/100/100?a=4","https://picsum.photos/100/100?a=5"] },
-      { "time": "09:00 - 11:00am", "show": "Acoustic Mornings", "hosts": ["RJ Melody"], "image": "https://picsum.photos/400/300?s=13", "hint": "acoustic guitar", "icon": "Coffee", "avatars": ["https://picsum.photos/100/100?a=10"] }
+      { "time": "08:00 - 10:00pm", "show": "Friday Night Live", "hosts": ["The Whole Crew"], "image": "https://picsum.photos/400/300?s=19", "hint": "live concert", "icon": "Waves", "avatars": ["https://picsum.photos/100/100?a=1","https://picsum.photos/100/100?a=4","https://picsum.photos/100/100?a=5"] }
     ]
   },
   {
     "day": "Monday",
     "shows": [
+      { "time": "07:00 - 09:00am", "show": "Morning Drive", "hosts": ["RJ Clara"], "image": "https://picsum.photos/400/300?s=5", "hint": "sunrise coffee", "icon": "Coffee", "avatars": ["https://picsum.photos/100/100?a=5"] },
       { "time": "08:00 - 10:00pm", "show": "Tiny Time Talks", "hosts": ["RJ Sumu", "Monty", "Rony"], "image": "https://picsum.photos/400/300?s=1", "hint": "mixing console", "avatars": ["https://picsum.photos/100/100?a=1","https://picsum.photos/100/100?a=2","https://picsum.photos/100/100?a=3"] },
       { "time": "09:15 - 10:45pm", "show": "Public Reaction", "hosts": ["RJ Mahmud"], "image": "https://picsum.photos/400/300?s=2", "hint": "retro radio", "icon": "Waves", "avatars": ["https://picsum.photos/100/100?a=4"] },
-      { "time": "07:00 - 09:00am", "show": "Morning Drive", "hosts": ["RJ Clara"], "image": "https://picsum.photos/400/300?s=5", "hint": "sunrise coffee", "icon": "Coffee", "avatars": ["https://picsum.photos/100/100?a=5"] },
       { "time": "11:00 - 01:00pm", "show": "Indie Hits", "hosts": ["DJ Alex"], "image": "https://picsum.photos/400/300?s=6", "hint": "guitar player", "icon": "Music", "avatars": ["https://picsum.photos/100/100?a=6"] }
     ]
   }
