@@ -1,20 +1,13 @@
-import type { NextConfig } from 'next';
-
-const nextConfig: NextConfig = {
-  // ✅ TypeScript build error ইগনোর
-  typescript: {
-    ignoreBuildErrors: true,
-  },
-
-  // ✅ ESLint build error ইগনোর
-  eslint: {
-    ignoreDuringBuilds: true,
-  },
-
-  // ✅ Image settings (সব ডোমেইন থেকে ইমেজ লোড হবে)
+/** @type {import('next').NextConfig} */
+const nextConfig = {
   images: {
-    unoptimized: true, 
+    remotePatterns: [
+      { protocol: 'https', hostname: 'kendua.github.io' },
+      { protocol: 'https', hostname: 'media.istockphoto.com' },
+      { protocol: 'https', hostname: 't3.ftcdn.net' },
+      { protocol: 'https', hostname: 'images.unsplash.com' }
+    ],
   },
 };
 
-export default nextConfig;
+module.exports = nextConfig;
