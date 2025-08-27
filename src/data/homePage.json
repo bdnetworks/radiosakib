@@ -1,16 +1,16 @@
 
 {
     "aboutSection": {
-        "title": "About Radio Sakib Reborn",
-        "description1": "We are a community-driven online radio station dedicated to bringing you the best music, engaging talk shows, and a platform for new artists. Our mission is to connect people through the power of sound.",
-        "description2": "From our humble beginnings, we have grown into a vibrant community of listeners and creators. Join us on our journey and be part of something special.",
+        "title": "About Radio Sakib",
+        "description1": "Radio Sakib is Online Based Radio Station. It Works For Entertainment all over the World.",
+        "description2": "Radio Sakib Play Songs as Bangla, English, Hindi. It Broadcast Live 24x7 for Radio Sakib & Radio Bushra Listeners.",
         "button": {
-            "text": "Learn More",
+            "text": "Thanks for Stay with "Radio Sakib"",
             "href": "/about"
         },
         "image": {
-            "src": "https://picsum.photos/600/400?a=1",
-            "alt": "Radio station team",
+            "src": "https://kendua.github.io/radiosakib/img/about-1.jpg",
+            "alt": "Radio Sakib station team",
             "hint": "radio team"
         }
     }
