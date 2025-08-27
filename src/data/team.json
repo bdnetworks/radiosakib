@@ -1,0 +1,9 @@
+
+[
+    { "name": "Sakibuzzaman", "role": "Radio Jockey", "image": "https://picsum.photos/400/400?member=1", "hint": "male portrait" },
+    { "name": "Tahmina Bonny", "role": "Radio Jockey", "image": "https://picsum.photos/400/400?member=2", "hint": "female portrait" },
+    { "name": "Rocky Jonson", "role": "Music Composer", "image": "https://picsum.photos/400/400?member=3", "hint": "male portrait professional" },
+    { "name": "Sayan Zaman", "role": "Radio Jockey", "image": "https://picsum.photos/400/400?member=4", "hint": "female portrait professional" },
+    { "name": "Aria", "role": "Co-Host & Producer", "image": "https://picsum.photos/400/400?member=5", "hint": "female portrait" },
+    { "name": "Leo", "role": "Music Director", "image": "https://picsum.photos/400/400?member=6", "hint": "male portrait professional" }
+]

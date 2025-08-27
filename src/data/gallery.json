@@ -1,0 +1,13 @@
+
+{
+    "title": "RadioSakib Galleries",
+    "galleryImages": [
+        { "src": "https://picsum.photos/400/600?g=1", "alt": "DJ at work", "hint": "male DJ" },
+        { "src": "https://picsum.photos/800/400?g=2", "alt": "Podcast interview", "hint": "podcast interview" },
+        { "src": "https://picsum.photos/800/800?g=3", "alt": "Happy listeners", "hint": "friends smiling" },
+        { "src": "https://picsum.photos/400/400?g=4", "alt": "On-air light", "hint": "on-air sign" },
+        { "src": "https://picsum.photos/400/400?g=5", "alt": "Studio equipment", "hint": "radio studio" },
+        { "src": "https://picsum.photos/400/400?g=6", "alt": "Team members", "hint": "radio team" },
+        { "src": "https://picsum.photos/400/400?g=7", "alt": "Listener enjoying music", "hint": "person headphones" }
+    ]
+}

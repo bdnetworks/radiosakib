@@ -1,0 +1,17 @@
+
+{
+    "aboutSection": {
+        "title": "About Radio Sakib Reborn",
+        "description1": "We are a community-driven online radio station dedicated to bringing you the best music, engaging talk shows, and a platform for new artists. Our mission is to connect people through the power of sound.",
+        "description2": "From our humble beginnings, we have grown into a vibrant community of listeners and creators. Join us on our journey and be part of something special.",
+        "button": {
+            "text": "Learn More",
+            "href": "/about"
+        },
+        "image": {
+            "src": "https://picsum.photos/600/400?a=1",
+            "alt": "Radio station team",
+            "hint": "radio team"
+        }
+    }
+}

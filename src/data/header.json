@@ -1,0 +1,19 @@
+
+{
+    "logo": {
+        "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSg3Q0S_ao-A0Qp4A-0vQFr1LSB2VO0K8EXXMZYs0zEX_9w4y2Msnz3B6-vFfS2l5nF18sI-qPhT54k2E_ZAFmX4iS9SLIas5Xp2l8T-L1sY_8t7fDk8Yc1u_kU8F1j4u_9qM/s320/Radio%20Sakib%20Reborn%20Logo.png",
+        "alt": "Radio Sakib Reborn",
+        "href": "/"
+    },
+    "navLinks": [
+      { "name": "Home", "href": "/", "icon": "Home" },
+      { "name": "About Us", "href": "/about", "icon": "Info" },
+      { "name": "Song Request", "href": "/song-request", "icon": "Music" },
+      { "name": "Contact Us", "href": "/contact", "icon": "Mic" },
+      { "name": "Privacy Policy", "href": "/privacy", "icon": "Shield" }
+    ],
+    "sponsorButton": {
+        "text": "Become a Sponsor",
+        "href": "/contact"
+    }
+}

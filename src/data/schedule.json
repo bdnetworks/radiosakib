@@ -1,0 +1,12 @@
+
+[
+    { "time": "08:00 - 10:00pm", "day": "Saturday", "show": "Tiny Time Talks", "hosts": ["RJ Sumu", "Monty", "Rony"], "image": "https://picsum.photos/400/300?s=1", "hint": "mixing console", "avatars": ["https://picsum.photos/100/100?a=1", "https://picsum.photos/100/100?a=2", "https://picsum.photos/100/100?a=3"] },
+    { "time": "09:15 - 10:45pm", "day": "Saturday", "show": "Public Reaction", "hosts": ["RJ Mahmud"], "image": "https://picsum.photos/400/300?s=2", "hint": "retro radio", "icon": "Waves", "avatars": ["https://picsum.photos/100/100?a=4"] },
+    { "time": "07:00 - 09:00am", "day": "Sunday", "show": "Morning Drive", "hosts": ["RJ Clara"], "image": "https://picsum.photos/400/300?s=5", "hint": "sunrise coffee", "icon": "Coffee", "avatars": ["https://picsum.photos/100/100?a=5"] },
+    { "time": "11:00 - 01:00pm", "day": "Sunday", "show": "Indie Hits", "hosts": ["DJ Alex"], "image": "https://picsum.photos/400/300?s=6", "hint": "guitar player", "icon": "Music", "avatars": ["https://picsum.photos/100/100?a=6"] },
+    { "time": "08:00 - 10:00am", "day": "Monday", "show": "Global Beats", "hosts": ["DJ Rico"], "image": "https://picsum.photos/400/300?s=9", "hint": "world map", "avatars": ["https://picsum.photos/100/100?a=7"] },
+    { "time": "10:00 - 12:00pm", "day": "Tuesday", "show": "Tech Talks", "hosts": ["RJ Nova", "RJ Bit"], "image": "https://picsum.photos/400/300?s=11", "hint": "circuit board", "icon": "Mic", "avatars": ["https://picsum.photos/100/100?a=8", "https://picsum.photos/100/100?a=9"] },
+    { "time": "09:00 - 11:00am", "day": "Wednesday", "show": "Acoustic Mornings", "hosts": ["RJ Melody"], "image": "https://picsum.photos/400/300?s=13", "hint": "acoustic guitar", "icon": "Coffee", "avatars": ["https://picsum.photos/100/100?a=10"] },
+    { "time": "10:00 - 11:59pm", "day": "Thursday", "show": "Midnight Whispers", "hosts": ["RJ Luna"], "image": "https://picsum.photos/400/300?s=17", "hint": "city at night", "icon": "Moon", "avatars": ["https://picsum.photos/100/100?a=11"] },
+    { "time": "07:00 - 09:00pm", "day": "Friday", "show": "Friday Night Live", "hosts": ["The Whole Crew"], "image": "https://picsum.photos/400/300?s=19", "hint": "live concert", "icon": "Waves", "avatars": ["https://picsum.photos/100/100?a=1", "https://picsum.photos/100/100?a=4", "https://picsum.photos/100/100?a=5"] }
+]

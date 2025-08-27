@@ -1,0 +1,72 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 260 100% 97%;
+    --foreground: 222.2 84% 4.9%;
+    --card: 260 80% 95%;
+    --card-foreground: 222.2 84% 4.9%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 222.2 84% 4.9%;
+    --primary: 260 80% 60%; /* Purple */
+    --primary-foreground: 0 0% 100%;
+    --secondary: 260 60% 95%; /* Light Purple */
+    --secondary-foreground: 260 80% 60%;
+    --muted: 260 60% 92%;
+    --muted-foreground: 222.2 47.4% 11.2%;
+    --accent: 260 85% 65%; /* Brighter Purple */
+    --accent-foreground: 0 0% 100%;
+    --destructive: 0 84.2% 60.2%; /* Red */
+    --destructive-foreground: 0 0% 100%;
+    --border: 260 60% 90%;
+    --input: 260 60% 92%;
+    --ring: 260 80% 60%;
+    --radius: 0.5rem;
+  }
+
+  .dark {
+    --background: 222.2 84% 4.9%;
+    --foreground: 210 40% 98%;
+    --card: 222.2 84% 4.9%;
+    --card-foreground: 210 40% 98%;
+    --popover: 222.2 84% 4.9%;
+    --popover-foreground: 210 40% 98%;
+    --primary: 260 80% 70%; /* Purple */
+    --primary-foreground: 210 40% 98%;
+    --secondary: 217.2 32.6% 17.5%;
+    --secondary-foreground: 210 40% 98%;
+    --muted: 217.2 32.6% 17.5%;
+    --muted-foreground: 215 20.2% 65.1%;
+    --accent: 217.2 32.6% 17.5%;
+    --accent-foreground: 210 40% 98%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 217.2 32.6% 17.5%;
+    --input: 217.2 32.6% 17.5%;
+    --ring: 260 80% 70%;
+    --radius: 0.5rem;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+@layer utilities {
+  @keyframes dance {
+    0%, 100% { transform: scaleY(0.2); }
+    25% { transform: scaleY(0.8); }
+    50% { transform: scaleY(0.4); }
+    75% { transform: scaleY(1.0); }
+  }
+  .animate-dance .wave-bar {
+    animation: dance 1.5s ease-in-out infinite;
+  }
+}

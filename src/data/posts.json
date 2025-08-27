@@ -1,0 +1,36 @@
+
+[
+  {
+    "slug": "first-post",
+    "title": "Welcome to the New Radio Sakib",
+    "image": "https://picsum.photos/800/400?p=1",
+    "imageHint": "radio microphone",
+    "excerpt": "We are thrilled to launch the brand new version of Radio Sakib. Built with modern technology for a better experience...",
+    "content": "<p>We are thrilled to launch the brand new version of Radio Sakib. Built with modern technology for a better experience, we hope you enjoy the new look and feel. Our mission remains the same: to bring you the best music and content.</p><p>Explore the new site, listen to our live stream, and let us know what you think. We have big plans for the future, including more articles, new shows, and interactive features.</p>",
+    "author": "Admin",
+    "date": "2024-07-29",
+    "tags": ["announcement", "radio", "music"]
+  },
+  {
+    "slug": "top-10-songs-of-the-week",
+    "title": "Top 10 Songs of the Week",
+    "image": "https://picsum.photos/800/400?p=2",
+    "imageHint": "music charts",
+    "excerpt": "Check out this week's chart-toppers! We have compiled a list of the 10 most popular songs right now...",
+    "content": "<p>Check out this week's chart-toppers! We have compiled a list of the 10 most popular songs right now. Did your favorite make the cut?</p><ol><li>Artist A - Song Title 1</li><li>Artist B - Song Title 2</li><li>Artist C - Song Title 3</li><li>Artist D - Song Title 4</li><li>Artist E - Song Title 5</li><li>Artist F - Song Title 6</li><li>Artist G - Song Title 7</li><li>Artist H - Song Title 8</li><li>Artist I - Song Title 9</li><li>Artist J - Song Title 10</li></ol>",
+    "author": "DJ Sakib",
+    "date": "2024-07-28",
+    "tags": ["music", "top 10", "charts"]
+  },
+  {
+    "slug": "behind-the-mic",
+    "title": "Behind the Mic: An Interview with a Radio Host",
+    "image": "https://picsum.photos/800/400?p=3",
+    "imageHint": "interview podcast",
+    "excerpt": "Ever wondered what it's like to be a radio host? We sat down with one of our own to give you a sneak peek behind the scenes...",
+    "content": "<p>Ever wondered what it's like to be a radio host? We sat down with one of our own to give you a sneak peek behind the scenes. It's not just about talking into a microphone; it's about connecting with listeners and sharing a passion for music.</p><p>From show preparation to handling live callers, we cover it all. It's a challenging but incredibly rewarding job.</p>",
+    "author": "Staff Writer",
+    "date": "2024-07-25",
+    "tags": ["interview", "radio", "behind the scenes"]
+  }
+]

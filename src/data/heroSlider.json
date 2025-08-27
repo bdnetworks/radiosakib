@@ -1,0 +1,30 @@
+
+[
+  {
+    "image": "https://picsum.photos/1200/800?h=1",
+    "hint": "DJ mixing console",
+    "titleLine1": "RADIO SAKIB LIVE",
+    "titleLine2": "RADIO STATION",
+    "description": "Listen with the ears & understand with the heart",
+    "buttonText": "LIVE ON RADIOBOX",
+    "buttonLink": "#"
+  },
+  {
+    "image": "https://picsum.photos/1200/800?h=2",
+    "hint": "live music",
+    "titleLine1": "Live Shows",
+    "titleLine2": "Every Weekend",
+    "description": "Tune in for exclusive live performances and DJ sets.",
+    "buttonText": "View Schedule",
+    "buttonLink": "#"
+  },
+  {
+    "image": "https://picsum.photos/1200/800?h=3",
+    "hint": "podcast microphone",
+    "titleLine1": "New Podcasts",
+    "titleLine2": "Weekly",
+    "description": "Discover new stories and insights from our amazing hosts.",
+    "buttonText": "Explore Podcasts",
+    "buttonLink": "#"
+  }
+]
